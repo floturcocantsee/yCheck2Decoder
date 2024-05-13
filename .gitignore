@@ -1,0 +1,4 @@
+.vscode
+output/*
+ycheck2/*
+csv/*
